@@ -1,4 +1,4 @@
-package com.ideasapp.globallifeplaner.ui.theme
+package com.ideasapp.globallifeplaner.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,4 +1,4 @@
-package com.ideasapp.globallifeplaner.ui.theme
+package com.ideasapp.globallifeplaner.presentation.theme
 
 import android.app.Activity
 import android.os.Build
