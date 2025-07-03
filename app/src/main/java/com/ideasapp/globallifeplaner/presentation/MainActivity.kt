@@ -16,6 +16,11 @@ import androidx.compose.material3.Button
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
 
+//TODO
+// 1. List for time bound plans and events for them
+// 2. Logic to suggest plan for today
+// 3. List for ideas and logic to suggest ideas
+
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState:Bundle?) {
         super.onCreate(savedInstanceState)
