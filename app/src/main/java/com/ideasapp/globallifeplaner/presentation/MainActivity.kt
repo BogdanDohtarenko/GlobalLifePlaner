@@ -20,6 +20,8 @@ import androidx.core.content.ContextCompat
 // 1. List for time bound plans and events for them
 // 2. Logic to suggest plan for today
 // 3. List for ideas and logic to suggest ideas
+// Features:
+// additional 3 triggers - weather; data; previous events
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState:Bundle?) {
